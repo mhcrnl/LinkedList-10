@@ -15,7 +15,7 @@ typedef struct _list
 
 void init_list(List *);
 void add_to_list(List *, int);
-void printf_list(List *);
+void print_list(List *);
 void delete_list(List *);
 
 #endif

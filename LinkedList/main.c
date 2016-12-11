@@ -8,7 +8,7 @@ int main(void)
 
 	init_list(&my_list);
 
-	While (1)
+	while (1)
 	{
 		printf("input a number : ");
 		scanf("%d, &input_data");
